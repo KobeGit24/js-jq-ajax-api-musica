@@ -66,3 +66,11 @@ header img {
 .cd span.year {
     color: grey;
 }
+
+#music-choise {
+    width: 20%;
+    height: 50px;
+    margin: 0 auto;
+    background-color: darkorange;
+    border: 1px solid #ffffff;
+}
